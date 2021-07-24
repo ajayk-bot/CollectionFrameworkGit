@@ -1,0 +1,98 @@
+{
+  "1" : {
+    "id" : "1",
+    "address" : {
+      "city" : "Pune",
+      "pincode" : 123,
+      "tempAddress" : "shivship",
+      "perAddress" : "hinhjiwadi"
+    },
+    "balance" : 1000,
+    "salary" : 5000.0,
+    "discount" : 2,
+    "email" : "a@gmail1.com",
+    "name" : "Name1",
+    "phone" : "98900816631",
+    "preferred_locales" : [ "local1", "local21" ]
+  },
+  "2" : {
+    "id" : "2",
+    "address" : {
+      "city" : "mumbaicity2",
+      "pincode" : 124,
+      "tempAddress" : "temp2",
+      "perAddress" : "per24"
+    },
+    "balance" : 2000,
+    "salary" : 10000.0,
+    "discount" : 1,
+    "email" : "a@gmail2.com",
+    "name" : "Name2",
+    "phone" : "98900816632",
+    "preferred_locales" : [ "local2", "local31" ]
+  },
+  "3" : {
+    "id" : "3",
+    "address" : {
+      "city" : "mumbaicity3",
+      "pincode" : 1255,
+      "tempAddress" : "temp3",
+      "perAddress" : "per2"
+    },
+    "balance" : 1500,
+    "salary" : 9000.0,
+    "discount" : 5,
+    "email" : "a@gmail3.com",
+    "name" : "Name3",
+    "phone" : "98900816633",
+    "preferred_locales" : [ "local3", "local41" ]
+  },
+  "4" : {
+    "id" : "6",
+    "address" : {
+      "city" : "mumbaicity4",
+      "pincode" : 126,
+      "tempAddress" : "temp4",
+      "perAddress" : "per23"
+    },
+    "balance" : 1200,
+    "salary" : 8000.0,
+    "discount" : 7,
+    "email" : "a@gmail4.com",
+    "name" : "Name4",
+    "phone" : "98900816634",
+    "preferred_locales" : [ "local4", "local51" ]
+  },
+  "5" : {
+    "id" : "5",
+    "address" : {
+      "city" : "mumbaicity5",
+      "pincode" : 127,
+      "tempAddress" : "temp5",
+      "perAddress" : "per22"
+    },
+    "balance" : 5000,
+    "salary" : 6000.0,
+    "discount" : 6,
+    "email" : "a@gmail5.com",
+    "name" : "Name5",
+    "phone" : "98900816635",
+    "preferred_locales" : [ "local5", "local61" ]
+  },
+  "6" : {
+    "id" : "4",
+    "address" : {
+      "city" : "mumbaicity6",
+      "pincode" : 1277,
+      "tempAddress" : "temp6",
+      "perAddress" : "per21"
+    },
+    "balance" : 4333,
+    "salary" : 90002.0,
+    "discount" : 1,
+    "email" : "a@gmail6.com",
+    "name" : "Name6",
+    "phone" : "98900816636",
+    "preferred_locales" : [ "local6", "local21" ]
+  }
+}
